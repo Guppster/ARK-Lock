@@ -18,6 +18,7 @@ Below i have written down what I think are the minimal working requirements for 
 * Identifies the action (lock/unlock) via the vendor field
 
 ## Lock Hardware 
-#### Servo operating deadbolt assemply
+#### Servo operating deadbolt assembly
 * Be able to control a pre-existing deadbolt assembly
 * Independently powered and able to connect to the internet in a small footprint
+* Create a latch to control the deadbolt
